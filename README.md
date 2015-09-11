@@ -9,7 +9,9 @@ You want to download the PC version of the wechat client
 
 PC terminal the wechat video storage location path is
 
--> C:\Users\yaojl\Documents\WeChat Files\[Account number]\Video
+-> 
+
+C:\Users\yaojl\Documents\WeChat Files\[Account number]\Video
 
 [Account number]：Account will be different according to your own
 
@@ -21,7 +23,11 @@ You can use the itool.
 
 In the mobile terminal to find a cache of video files.
 
-It was kept in -> wechat\Library\WechatPrivate\[Random sequence number]\Sight\draft
+It was kept in 
+
+-> 
+
+wechat\Library\WechatPrivate\[Random sequence number]\Sight\draft
 
 [Random sequence number]：It may depend on time
 
