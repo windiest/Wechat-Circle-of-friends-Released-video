@@ -26,7 +26,10 @@ In the mobile terminal to find a cache of video files.
 It was kept in 
 
 -> 
+Android:
+tecent->MicroMsg->[num]->draft
 
+Ios:
 wechat\Library\WechatPrivate\[Random sequence number]\Sight\draft
 
 [Random sequence number]：It may depend on time
