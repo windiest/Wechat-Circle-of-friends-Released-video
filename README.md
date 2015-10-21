@@ -24,8 +24,8 @@ You can use the itool.
 In the mobile terminal to find a cache of video files.
 
 It was kept in 
-
 -> 
+
 Android:
 tecent->MicroMsg->[num]->draft
 
