@@ -48,6 +48,7 @@ And corresponds to a 320*240 resolution of the picture can be, in the PS to inte
 //switchnotificationstatus：让微信也支持浮动通知
 在微信任意聊天窗口输入//switchnotificationstatus并发送，即可让微信也支持浮动通知。不过该功能仅支持Android 5.x +和微信6.2测试版，如要升级到微信6.2测试版，请用微信扫一扫下面最后一张图中的二维码。
 
+
 //sightinfo：查看小视频参数
 //sightinfo可以让小视频的左上角显示小视频的一些参数，比如帧率、分辨率、时长、大小等。输入//sightinfo并发送后，参数不会立即显示，需先退出微信再重新进入。如要取消显示参数，只需重复输入//sightinfo并发送，退出微信再重新进入就好了。
 
